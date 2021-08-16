@@ -52,6 +52,7 @@ h1{
 
 .card p{
     color:hsl(237, 18%, 59%);
+    margin-top:10px;
 }
 
 .num{
