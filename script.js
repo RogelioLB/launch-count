@@ -4,7 +4,7 @@ window.onload=()=>{
     let minute = document.getElementById("minutes");
     let second = document.getElementById("seconds");
 
-    const CountDownDate = new Date(2021,6,25,12,0,0).getTime();
+    const CountDownDate = new Date(2023,6,25,12,0,0).getTime();
 
     let x = setInterval(()=>{
         let now = new Date().getTime();
